@@ -1,19 +1,9 @@
-<div align="center">
-<h1> 👋 Hi, I’m @romanwashere </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
-  
-<h1> ❔ About </h1>
-  <p> 🏷 My name is Tolga </p>
-  <p> 🤓 I am back-end developer </p>
-  <p> 🏳 I live in Turkey </p>
-  <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+# 👋 Hello there, I'm [@bnewixua](https://github.com/bnewixua)
+- Usually I work on javascript and typescript.
+- Visit my Discord profile [discord.com](https://discord.com/users/848627773059891220) 👀
+- Visit my projects that will work for you on Github [github](https://github.com/bnewixua) 🤩
 
-
-<h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
-
-<h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
-
-<h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
+## Special Code
+- Special Code is opened to offer you beautiful infrastructures
+- Shared in a very advanced and professional way
+- If you want to take advantage of it, come now. [special code](https://discord.gg/Dv2rjArJ6M)
