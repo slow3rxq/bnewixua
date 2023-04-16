@@ -6,4 +6,4 @@
 ## Special Code
 - Special Code is opened to offer you beautiful infrastructures
 - Shared in a very advanced and professional way
-- If you want to take advantage of it, come now. [special code](https://discord.gg/Dv2rjArJ6M)
+- If you want to take advantage of it, come now. [Plasma Code]([https://discord.gg/Dv2rjArJ6M](https://discord.gg/plasmacode))
