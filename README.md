@@ -1,4 +1,5 @@
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/979762331879895102?hideDiscrim=false)
+[![Discord Presence](https://lanyard.cnrad.dev/api/692484729722765474)](https://discord.com/users/692484729722765474)
 
 Hi 👋 My name is bnewixua
 =========================
