@@ -1,10 +1,9 @@
-Hi 👋 My name is bnewixua
+0Hi 👋 My name is bnewixua
 =========================
 
 I am a developer and I have many language related projects, you can take a look if you want, don't forget to star :)
 
 * 🌍  I'm based in Mersin
-* 🖥️  See my portfolio at [Visit](http://github.com/bnewixua/portfolio)
 * 🧠  I'm learning I'm learning new programming languages
 * 🤝  I'm open to collaborating on I am open to paid collaborations
 
